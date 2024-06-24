@@ -1,5 +1,5 @@
 # Analysis SQL Question
--- 1. Whow is the senior most employee based on job title
+-- 1. Who is the senior most employee based on job title
 -- 2. Which countries have the most invoice
 -- 3. What are top 3 value of total invoice 
 -- 4. Which city has the best coustomer? Write a query to retunt one city that has the highest sum of invoice total. Return both city name and sum of all invoice total
