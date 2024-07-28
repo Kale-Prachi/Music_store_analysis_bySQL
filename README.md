@@ -1,6 +1,6 @@
 ## Music Store Analysis Using SQL
 #Project Overview
-This project involves analyzing a music store's dataset using SQL queries ranging from basic to advanced levels. The analysis is intended for practice and to gain insights into various aspects of the music store operations. The data is stored in CSV files and imported into a relational database for querying.
+This project involves analyzing a music store's dataset using SQL queries ranging from basic to advanced levels. The analysis is intended  to gain insights into various aspects of the music store operations. The data is stored in CSV files and imported into a relational database for querying.
 
 #Dataset
 The project utilizes 11 CSV files, each representing different aspects of the music store:
@@ -18,9 +18,8 @@ Employee: Contains employee details.
 Invoice_Line: Contains quantity, price, and other line item details.
 
 #Project Objectives
-Practice and enhance SQL querying skills.
-Perform comprehensive analysis on the music store data.
-Extract meaningful insights from the data.
+ analyze music data to determine which music albums generate the most profit and identify the top-performing cities and countries. The insights gained will help optimize marketing strategies and inventory management.
+
 
 #Key Features
 Comprehensive Data Analysis: Utilized various SQL techniques to perform detailed analysis.
